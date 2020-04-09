@@ -25,5 +25,5 @@ $ php artisan key:generate
 ![](https://i.imgur.com/2Gpln59.png)
 > 健保署運用健保資訊網路及健保卡，於 2 月 6 日採用實名登錄的方式在健保署特約藥局開賣口罩
 
-![](https://i.imgur.com/suIBghJ.png)
+![](https://i.imgur.com/S9Yoi4E.png)
 > 4 月 9 日起新制上路，解除單雙號限制，大人改成 14 天可買 9 片、小孩 14 天可 10 片，另外每個人可選擇買大人或小孩的口罩，大人的健保卡也可購買小孩口罩
