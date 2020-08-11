@@ -1,4 +1,5 @@
-@extends('layouts.main') @section('content')
+@extends('layouts.main')
+@section('content')
 <div id="sidebar" class="sidebar collapsed">
     <!-- Nav tabs -->
     <div class="sidebar-tabs">

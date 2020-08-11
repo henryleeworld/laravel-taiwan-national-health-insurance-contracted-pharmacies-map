@@ -12,7 +12,7 @@
         "fideloper/proxy": "^4.4",
         "fruitcake/laravel-cors": "^2.0",
         "guzzlehttp/guzzle": "^6.5",
-        "laravel/framework": "^7.22",
+        "laravel/framework": "^7.24",
         "laravel/tinker": "^2.4"
     },
     "require-dev": {
@@ -20,7 +20,7 @@
         "fzaninotto/faker": "^1.9",
         "mockery/mockery": "^1.4",
         "nunomaduro/collision": "^4.2",
-        "phpunit/phpunit": "^9.2"
+        "phpunit/phpunit": "^9.3"
     },
     "config": {
         "optimize-autoloader": true,
