@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "7a10b4572f9aaa1130e49c9f4f777a50",
+    "content-hash": "81c6bf639b7c3a4529629b6f4cd8c150",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -717,16 +717,16 @@
         },
         {
             "name": "laravel/framework",
-            "version": "v7.25.0",
+            "version": "v7.26.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/framework.git",
-                "reference": "fdf3d4a40447eb286ba3820768306cae64bcc0b3"
+                "reference": "fad3e5f03b9ae89853c8a0925231d2b3ce07a9c3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/framework/zipball/fdf3d4a40447eb286ba3820768306cae64bcc0b3",
-                "reference": "fdf3d4a40447eb286ba3820768306cae64bcc0b3",
+                "url": "https://api.github.com/repos/laravel/framework/zipball/fad3e5f03b9ae89853c8a0925231d2b3ce07a9c3",
+                "reference": "fad3e5f03b9ae89853c8a0925231d2b3ce07a9c3",
                 "shasum": ""
             },
             "require": {
@@ -832,6 +832,7 @@
                 "nyholm/psr7": "Required to use PSR-7 bridging features (^1.2).",
                 "pda/pheanstalk": "Required to use the beanstalk queue driver (^4.0).",
                 "phpunit/phpunit": "Required to use assertions and run tests (^8.4|^9.0).",
+                "predis/predis": "Required to use the predis connector (^1.1.2).",
                 "psr/http-message": "Required to allow Storage::put to accept a StreamInterface (^1.0).",
                 "pusher/pusher-php-server": "Required to use the Pusher broadcast driver (^4.0).",
                 "symfony/cache": "Required to PSR-6 cache bridge (^5.0).",
@@ -870,7 +871,7 @@
                 "framework",
                 "laravel"
             ],
-            "time": "2020-08-11T13:43:10+00:00"
+            "time": "2020-08-27T14:22:46+00:00"
         },
         {
             "name": "laravel/tinker",
@@ -1293,16 +1294,16 @@
         },
         {
             "name": "nikic/php-parser",
-            "version": "v4.9.0",
+            "version": "v4.9.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/nikic/PHP-Parser.git",
-                "reference": "aaee038b912e567780949787d5fe1977be11a778"
+                "reference": "88e519766fc58bd46b8265561fb79b54e2e00b28"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nikic/PHP-Parser/zipball/aaee038b912e567780949787d5fe1977be11a778",
-                "reference": "aaee038b912e567780949787d5fe1977be11a778",
+                "url": "https://api.github.com/repos/nikic/PHP-Parser/zipball/88e519766fc58bd46b8265561fb79b54e2e00b28",
+                "reference": "88e519766fc58bd46b8265561fb79b54e2e00b28",
                 "shasum": ""
             },
             "require": {
@@ -1341,7 +1342,7 @@
                 "parser",
                 "php"
             ],
-            "time": "2020-08-18T19:48:01+00:00"
+            "time": "2020-08-30T16:15:20+00:00"
         },
         {
             "name": "opis/closure",
@@ -4093,21 +4094,21 @@
         },
         {
             "name": "facade/flare-client-php",
-            "version": "1.3.4",
+            "version": "1.3.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/facade/flare-client-php.git",
-                "reference": "0eeb0de4fc1078433f0915010bd8f41e998adcb4"
+                "reference": "25907a113bfc212a38d458ae365bfb902b4e7fb8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/facade/flare-client-php/zipball/0eeb0de4fc1078433f0915010bd8f41e998adcb4",
-                "reference": "0eeb0de4fc1078433f0915010bd8f41e998adcb4",
+                "url": "https://api.github.com/repos/facade/flare-client-php/zipball/25907a113bfc212a38d458ae365bfb902b4e7fb8",
+                "reference": "25907a113bfc212a38d458ae365bfb902b4e7fb8",
                 "shasum": ""
             },
             "require": {
                 "facade/ignition-contracts": "~1.0",
-                "illuminate/pipeline": "^5.5|^6.0|^7.0",
+                "illuminate/pipeline": "^5.5|^6.0|^7.0|^8.0",
                 "php": "^7.1",
                 "symfony/http-foundation": "^3.3|^4.1|^5.0",
                 "symfony/mime": "^3.4|^4.0|^5.1",
@@ -4145,7 +4146,7 @@
                 "flare",
                 "reporting"
             ],
-            "time": "2020-07-13T23:25:57+00:00"
+            "time": "2020-08-26T18:06:23+00:00"
         },
         {
             "name": "facade/ignition",
@@ -4926,16 +4927,16 @@
         },
         {
             "name": "phpunit/php-code-coverage",
-            "version": "9.1.4",
+            "version": "9.1.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/php-code-coverage.git",
-                "reference": "4422fca28c3634e2de8c7c373af97a104dd1a45f"
+                "reference": "adea70610c070869261d2d0a62fa968611447b56"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/php-code-coverage/zipball/4422fca28c3634e2de8c7c373af97a104dd1a45f",
-                "reference": "4422fca28c3634e2de8c7c373af97a104dd1a45f",
+                "url": "https://api.github.com/repos/sebastianbergmann/php-code-coverage/zipball/adea70610c070869261d2d0a62fa968611447b56",
+                "reference": "adea70610c070869261d2d0a62fa968611447b56",
                 "shasum": ""
             },
             "require": {
@@ -4989,7 +4990,7 @@
                 "testing",
                 "xunit"
             ],
-            "time": "2020-08-13T15:04:53+00:00"
+            "time": "2020-08-27T06:29:01+00:00"
         },
         {
             "name": "phpunit/php-file-iterator",
@@ -5194,16 +5195,16 @@
         },
         {
             "name": "phpunit/phpunit",
-            "version": "9.3.7",
+            "version": "9.3.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/phpunit.git",
-                "reference": "c638a0cac77347980352485912de48c99b42ad00"
+                "reference": "93d78d8e2a06393a0d0c1ead6fe9984f1af1f88c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/c638a0cac77347980352485912de48c99b42ad00",
-                "reference": "c638a0cac77347980352485912de48c99b42ad00",
+                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/93d78d8e2a06393a0d0c1ead6fe9984f1af1f88c",
+                "reference": "93d78d8e2a06393a0d0c1ead6fe9984f1af1f88c",
                 "shasum": ""
             },
             "require": {
@@ -5219,11 +5220,12 @@
                 "phar-io/version": "^3.0.2",
                 "php": "^7.3 || ^8.0",
                 "phpspec/prophecy": "^1.11.1",
-                "phpunit/php-code-coverage": "^9.1.1",
+                "phpunit/php-code-coverage": "^9.1.5",
                 "phpunit/php-file-iterator": "^3.0.4",
                 "phpunit/php-invoker": "^3.1",
                 "phpunit/php-text-template": "^2.0.2",
                 "phpunit/php-timer": "^5.0.1",
+                "sebastian/cli-parser": "^1.0",
                 "sebastian/code-unit": "^1.0.5",
                 "sebastian/comparator": "^4.0.3",
                 "sebastian/diff": "^4.0.2",
@@ -5278,20 +5280,20 @@
                 "testing",
                 "xunit"
             ],
-            "time": "2020-08-11T15:36:12+00:00"
+            "time": "2020-08-27T06:30:58+00:00"
         },
         {
             "name": "scrivo/highlight.php",
-            "version": "v9.18.1.1",
+            "version": "v9.18.1.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/scrivo/highlight.php.git",
-                "reference": "52fc21c99fd888e33aed4879e55a3646f8d40558"
+                "reference": "efb6e445494a9458aa59b0af5edfa4bdcc6809d9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/scrivo/highlight.php/zipball/52fc21c99fd888e33aed4879e55a3646f8d40558",
-                "reference": "52fc21c99fd888e33aed4879e55a3646f8d40558",
+                "url": "https://api.github.com/repos/scrivo/highlight.php/zipball/efb6e445494a9458aa59b0af5edfa4bdcc6809d9",
+                "reference": "efb6e445494a9458aa59b0af5edfa4bdcc6809d9",
                 "shasum": ""
             },
             "require": {
@@ -5347,7 +5349,53 @@
                 "highlight.php",
                 "syntax"
             ],
-            "time": "2020-03-02T05:59:21+00:00"
+            "time": "2020-08-27T03:24:44+00:00"
+        },
+        {
+            "name": "sebastian/cli-parser",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/sebastianbergmann/cli-parser.git",
+                "reference": "2a4a38c56e62f7295bedb8b1b7439ad523d4ea82"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/sebastianbergmann/cli-parser/zipball/2a4a38c56e62f7295bedb8b1b7439ad523d4ea82",
+                "reference": "2a4a38c56e62f7295bedb8b1b7439ad523d4ea82",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^7.3 || ^8.0"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^9.3"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "1.0-dev"
+                }
+            },
+            "autoload": {
+                "classmap": [
+                    "src/"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Sebastian Bergmann",
+                    "email": "sebastian@phpunit.de",
+                    "role": "lead"
+                }
+            ],
+            "description": "Library for parsing CLI options",
+            "homepage": "https://github.com/sebastianbergmann/cli-parser",
+            "time": "2020-08-12T10:49:21+00:00"
         },
         {
             "name": "sebastian/code-unit",
