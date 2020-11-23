@@ -12,12 +12,12 @@
         "fideloper/proxy": "^4.4",
         "fruitcake/laravel-cors": "^2.0",
         "guzzlehttp/guzzle": "^7.2.0",
-        "laravel/framework": "^8.14",
+        "laravel/framework": "^8.15",
         "laravel/tinker": "^2.5"
     },
     "require-dev": {
         "facade/ignition": "^2.5.0",
-        "fakerphp/faker": "^1.10.1",
+        "fakerphp/faker": "^1.12.0",
         "mockery/mockery": "^1.4.2",
         "nunomaduro/collision": "^5.1",
         "phpunit/phpunit": "^9.4"
