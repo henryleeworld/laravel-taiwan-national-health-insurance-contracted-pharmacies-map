@@ -12,7 +12,7 @@ $ git clone
 ```sh
 $ composer install
 ```
-- 產⽣ Laravel 要使用的一組 32 字元長度的隨機字串 APP_KEY 並存在 .env 內。
+- 產生 Laravel 要使用的一組 32 字元長度的隨機字串 APP_KEY 並存在 .env 內。
 ```sh
 $ php artisan key:generate
 ```
@@ -22,8 +22,8 @@ $ php artisan key:generate
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/m7XkaVF.png)
+![](https://i.imgur.com/syeiKOt.png)
 > 健保署運用健保資訊網路及健保卡，於 2 月 6 日採用實名登錄的方式在健保署特約藥局開賣口罩
 
-![](https://i.imgur.com/wVtuWEE.png)
+![](https://i.imgur.com/08yFEus.png)
 > 口罩實名制第 24 輪續購日期於 12 月 21 日起至 12 月 27 日選擇超商取貨者可以續購，於 12 月 28 日 起至 12 月 30 日開放所有民眾預購，取貨時間則為 1 月 4 日至 1 月 17 日，本輪一樣為一次預購 10 片、一片 4 元
