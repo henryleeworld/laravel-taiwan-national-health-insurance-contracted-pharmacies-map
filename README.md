@@ -22,8 +22,8 @@ $ php artisan key:generate
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/WcOR5IY.png)
+![](https://i.imgur.com/JkT5Hr3.png)
 > 健保署運用健保資訊網路及健保卡，於 2 月 6 日採用實名登錄的方式在健保署特約藥局開賣口罩
 
-![](https://i.imgur.com/CEGWdH8.png)
+![](https://i.imgur.com/1UIgbNA.png)
 > 口罩實名制第 33 輪續購日期於 4 月 26 日起至 5 月 2 日選擇超商取貨者可以續購，於 5 月 3 日 起至 5 月 5 日開放所有民眾預購，取貨時間則為 5 月 10 日至 5 月 23 日，本輪一樣為一次預購 10 片、一片 4 元
