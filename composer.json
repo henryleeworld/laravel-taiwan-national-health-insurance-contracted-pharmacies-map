@@ -16,10 +16,10 @@
         "laravel/tinker": "^2.6"
     },
     "require-dev": {
-        "facade/ignition": "^2.10.1",
+        "facade/ignition": "^2.10.2",
         "fakerphp/faker": "^1.14.1",
         "mockery/mockery": "^1.4.3",
-        "nunomaduro/collision": "^5.4",
+        "nunomaduro/collision": "^5.5",
         "phpunit/phpunit": "^9.5"
     },
     "config": {
